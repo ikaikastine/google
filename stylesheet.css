@@ -67,3 +67,14 @@ nav {
   font-weight: bold;
   margin-left: 10px;
 }
+
+section {
+  position: relative;
+  top: 180px;
+  width: 60%;
+  min-height: 100%;
+  margin: auto;
+  text-align: center;
+  position: relative;
+  bottom: -40px;
+}
