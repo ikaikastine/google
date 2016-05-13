@@ -43,3 +43,27 @@ nav {
   padding: 0.5em;
   font-size: 0.8em;
 }
+
+.navlist li a:hover {
+  text-decoration: underline;
+}
+
+.navlist li {
+  display: inline-block;
+  text-align: right;
+}
+
+.grid {
+  position: relative;
+  top: 3px;
+}
+
+#sign-in {
+  background-color: #4387FD;
+  color: white;
+  border-radius: 2px;
+  width: 71px;
+  height: 30px;
+  font-weight: bold;
+  margin-left: 10px;
+}
